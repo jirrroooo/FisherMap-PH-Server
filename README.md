@@ -6,7 +6,7 @@
 ### Installation:
 
 1. Make sure to install necessary modules and package in Nest.js. On the main directory run this command: $ `npm install`
-2. On the main directory, add the .env file to specify the DB_URI, DB_NAME, APP_NAME, JWT_SECRET, JWT_EXPIRES, BACKEND, FRONTEND, MAIL_HOST, MAIL_USER, MAIL_PASSWORD. 
+2. On the main directory, add the .env file to specify the `DB_URI`, `DB_NAME`, `APP_NAME`, `JWT_SECRET`, `JWT_EXPIRES`, `BACKEND`, `FRONTEND`, `MAIL_HOST`, `MAIL_USER`, `MAIL_PASSWORD`. 
 3. To run the NestJS app run this command: $ `npm start:dev` or `npm start`.
 
 
